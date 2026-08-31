@@ -31,3 +31,19 @@ Based on the SHAP values and survival curves, the model identified four critical
 │   └── KKBox_Churn_Survival_Analysis.ipynb  # Core analysis and modeling
 ├── README.md               # Project overview
 └── requirements.txt        # Python dependencies
+
+🚀 How to Run
+Clone the repository:
+git clone [https://github.com/yourusername/kkbox-churn-survival.git](https://github.com/yourusername/kkbox-churn-survival.git)
+
+Install dependencies:
+pip install -r requirements.txt
+
+Download the data from the Kaggle KKBox Churn Prediction Challenge and place it in the data/ folder.
+
+Run the Jupyter Notebook in the notebooks/ directory.
+
+👨‍💻 About the Author
+Quantitative Researcher & Data Analyst
+
+Specializing in biostatistics, machine learning, and complex data processing. I bridge the gap between rigorous statistical methodologies and actionable business intelligence.

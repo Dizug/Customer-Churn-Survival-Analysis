@@ -34,10 +34,10 @@ Based on the SHAP values and survival curves, the model identified four critical
 
 🚀 How to Run
 Clone the repository:
-git clone [https://github.com/yourusername/kkbox-churn-survival.git](https://github.com/yourusername/kkbox-churn-survival.git)
+´´´git clone [https://github.com/yourusername/kkbox-churn-survival.git](https://github.com/yourusername/kkbox-churn-survival.git)´´´
 
 Install dependencies:
-pip install -r requirements.txt
+´´´pip install -r requirements.txt´´´
 
 Download the data from the Kaggle KKBox Churn Prediction Challenge and place it in the data/ folder.
 
